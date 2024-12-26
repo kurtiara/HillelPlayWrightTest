@@ -1,0 +1,22 @@
+{
+  "name": "hillelplaywrighttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurtiara/HillelPlayWrightTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurtiara/HillelPlayWrightTest/issues"
+  },
+  "homepage": "https://github.com/kurtiara/HillelPlayWrightTest#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  }
+}
