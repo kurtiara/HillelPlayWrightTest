@@ -40,6 +40,18 @@ export default defineConfig({
   /* Configure projects for major browsers */
   projects: [
     {
+      name: "setup",
+      use: { ...devices["Desktop Chrome"] },
+      testMatch: "tests/Lesson27/setup/*.ts",
+    },
+
+    {
+      name: "regression",
+      use: { ...devices["Desktop Chrome"] },
+      dependencies: ["setup"],
+    },
+
+    {
       name: "chromium",
       use: { ...devices["Desktop Chrome"] },
     },

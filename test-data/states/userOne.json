@@ -1,0 +1,75 @@
+{
+  "cookies": [
+    {
+      "name": "YSC",
+      "value": "dSY9_ZSwOKg",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "LudGOnBCqTQ",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1755887366.949827,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJVQRIEGgAgYw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1755887366.950286,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CPHc54Tc6NeuYxDU2dW6ttqLAxjU2dW6ttqLAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1755887366.950357,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "521=lyNzgGMlpG47v4HK3WTk30JssNxkb0QCuXsJo4EvmtNryPG7SFEyNifblvjGUlKVv3y0zfYPbvZQM_yupz6wQ5hI7uEbC6jYwKso4XObeZ_valldvnSGwXCqaToG5yOolwybyzfPBLylOYZrVHDtCX9NzrHoj__131mranj-TlTWhYAMgjvh3Rsy-SEZ4C4UxRc",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1756146568.470527,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid",
+      "value": "s%3APJCAfW0Omki00ZLpD7_UayDBizJoAmrc.eBTaiFsS5SUJU%2FYzTXutQ%2FDTH6zToBK7E%2BKcfO6my%2FI",
+      "domain": ".forstudy.space",
+      "path": "/",
+      "expires": 1740421769.151149,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1742927368363,\"creation\":1740335368364}"
+        }
+      ]
+    }
+  ]
+}
